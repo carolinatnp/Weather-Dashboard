@@ -33,7 +33,7 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 
 ## Usability
 - [GitHub Repository](https://github.com/carolinatnp/Weather-Dashboard)
-- Link do Live Application()
+- Link do Live Application(https://carolinatnp.github.io/Weather-Dashboard/)
 
 ## Links to Deployed application
 ![Wheater-dashboard](https://user-images.githubusercontent.com/94167488/151721431-5270977e-d6db-4ac1-94bc-2a457d0bf25b.png)

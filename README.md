@@ -32,5 +32,8 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 - Moment.js API
 
 ## Usability
+- [GitHub Repository](https://github.com/carolinatnp/Weather-Dashboard)
+- Link do Live Application()
 
 ## Links to Deployed application
+

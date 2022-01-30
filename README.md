@@ -37,3 +37,5 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 
 ## Links to Deployed application
 
+![Screen Shot 2022-01-31 at 9 24 57 am](https://user-images.githubusercontent.com/94167488/151721258-0610b3b0-9e96-48b6-984d-5b9819489f17.png)
+

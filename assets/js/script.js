@@ -58,7 +58,7 @@ var displayWeather = function(weather, searchCity){
 
    //create a span element to hold temperature data
    var temperatureEl = document.createElement("span");
-   temperatureEl.textContent = "Temperature: " + weather.main.temp + " °F";
+   temperatureEl.textContent = "Temperature: " + weather.main.temp + " °C";
    temperatureEl.classList = "list-group-item"
   
    //create a span element to hold Humidity data
@@ -166,7 +166,7 @@ var display5Day = function(weather){
        //create temperature span
        var forecastTempEl=document.createElement("span");
        forecastTempEl.classList = "card-body text-center";
-       forecastTempEl.textContent = dailyForecast.main.temp + " °F";
+       forecastTempEl.textContent = dailyForecast.main.temp + " °C";
 
         //append to forecast card
         forecastEl.appendChild(forecastTempEl);

@@ -48,7 +48,7 @@ var displayWeather = function(weather, searchCity){
 
    //create date element
    var currentDate = document.createElement("span")
-   currentDate.textContent=" (" + moment(weather.dt.value).format("MMM D, YYYY") + ") ";
+   currentDate.textContent=" (" + moment(weather.dt.value).format("D/MM/YYYY") + ") ";
    citySearchInputEl.appendChild(currentDate);
 
    //create an image element
@@ -150,7 +150,7 @@ var display5Day = function(weather){
 
        //create date element
        var forecastDate = document.createElement("h5")
-       forecastDate.textContent= moment.unix(dailyForecast.dt).format("MMM D, YYYY");
+       forecastDate.textContent= moment.unix(dailyForecast.dt).format("D/MM/YYYY");
        forecastDate.classList = "card-header text-center"
        forecastEl.appendChild(forecastDate);
 

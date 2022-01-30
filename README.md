@@ -36,6 +36,7 @@ Use the OpenWeather One Call API to retrieve weather data for cities. Read throu
 - Link do Live Application()
 
 ## Links to Deployed application
+![Wheater-dashboard](https://user-images.githubusercontent.com/94167488/151721431-5270977e-d6db-4ac1-94bc-2a457d0bf25b.png)
 
-![Wheater-dashboard](https://user-images.githubusercontent.com/94167488/151721393-b6764b1b-a1c6-4e8c-810b-c2f600faa09d.png)
+
 
